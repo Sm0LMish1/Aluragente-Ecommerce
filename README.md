@@ -23,10 +23,10 @@ El sistema utiliza un enfoque directo y eficiente conocido como **Prompt Stuffin
 ---------------------------------------------------------------------------------------------
 ## 📂 Estructura del Repositorio 📂
 aluragente-ecommerce/
--app.py                      # Lógica principal del agente y la interfaz visual.
--documentacion_tienda.csv    # Base de conocimiento (Términos, devoluciones, envíos).
--requirements.txt            # Lista de dependencias del proyecto.
--README.md                   # Documentación principal.
+*  app.py                      # Lógica principal del agente y la interfaz visual.
+*  documentacion_tienda.csv    # Base de conocimiento (Términos, devoluciones, envíos).
+*  requirements.txt            # Lista de dependencias del proyecto.
+*  README.md                   # Documentación principal.
 
 ---------------------------------------------------------------------------------------------
 ## 🚀 Instrucciones para Ejecución Local 🚀
@@ -64,12 +64,14 @@ Crea un archivo llamado .env en la raíz del proyecto y añade tu API Key de Goo
 
 ---------------------------------------------------------------------------------------------
 ## 📸 Evidencias de Funcionamiento 📸
--- Preguntas y respuestas del usuario
+### -- Preguntas y respuestas del usuario
+
 <img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/8dd9f440-16a4-4d0f-bb62-5fe353e0afa8" />
 
 <img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/b5de033c-8333-4d97-b48f-22c5dec692be" />
 
--- Respuesta que se recibe al consultar algo fuera de lo especificado
+### -- Respuesta que se recibe al consultar algo fuera de lo especificado
+
 <img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/ff9e46e8-b5ec-4cba-8337-f747da4d6668" />
 
 
