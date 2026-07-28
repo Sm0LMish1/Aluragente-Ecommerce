@@ -23,11 +23,10 @@ El sistema utiliza un enfoque directo y eficiente conocido como **Prompt Stuffin
 ---------------------------------------------------------------------------------------------
 ## 📂 Estructura del Repositorio 📂
 aluragente-ecommerce/
-│
-├── app.py                      # Lógica principal del agente y la interfaz visual.
-├── documentacion_tienda.csv    # Base de conocimiento (Términos, devoluciones, envíos).
-├── requirements.txt            # Lista de dependencias del proyecto.
-└── README.md                   # Documentación principal.
+-app.py                      # Lógica principal del agente y la interfaz visual.
+-documentacion_tienda.csv    # Base de conocimiento (Términos, devoluciones, envíos).
+-requirements.txt            # Lista de dependencias del proyecto.
+-README.md                   # Documentación principal.
 
 ---------------------------------------------------------------------------------------------
 ## 🚀 Instrucciones para Ejecución Local 🚀
