@@ -60,6 +60,10 @@ Crea un archivo llamado .env en la raíz del proyecto y añade tu API Key de Goo
 *Procesar pagos, realizar ventas o solicitar datos personales confidenciales.
 
 ---------------------------------------------------------------------------------------------
+## Link directo al agente (Streamlit)
+--> https://aluragente-ecommerce.streamlit.app/
+
+---------------------------------------------------------------------------------------------
 ## 📸 Evidencias de Funcionamiento 📸
 -- Preguntas y respuestas del usuario
 <img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/8dd9f440-16a4-4d0f-bb62-5fe353e0afa8" />
@@ -68,6 +72,8 @@ Crea un archivo llamado .env en la raíz del proyecto y añade tu API Key de Goo
 
 -- Respuesta que se recibe al consultar algo fuera de lo especificado
 <img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/ff9e46e8-b5ec-4cba-8337-f747da4d6668" />
+
+
 
 
 
